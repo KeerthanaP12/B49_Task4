@@ -1,0 +1,41 @@
+{
+    "Name" : "Keerthana Pazhanisami",
+    "Age": 24,
+    "DOB": "12/04/1999",
+    "Email":"keerthana@gmail.com",
+    "Address": "6/346, Thiruvalluvar Street, Periyar Nagar, Chennai - 600039",
+    "Education": [
+        {
+            "Board": "CBSE 10th Standard",
+            "School Name": "Central Academy",
+            "Passing year": 2014,
+            "Percentage": "81%",
+            "Group": "Science"
+
+        },
+        {
+            
+            "Board": "CBSE 12th Standard",
+            "School Name": "Central Academy",
+            "Passing year": 2016,
+            "Percentage": "70%",
+            "Group": "Science"
+        },
+        {
+            
+            "Board": "Madras University",
+            "College Name": "SKPC",
+            "Passing year": 2019,
+            "Percentage": "72%",
+            "Group": "B.Sc(Mathematics)"
+        }],
+    "Experience": [
+        {
+            "Compnay Name": "Tata Consultancy Services",
+            "Job Profile" : "Serinor Process Associate",
+            "Work Duration" : "2019-2023",
+            "work" : "Senior KYC Analyst"
+        }
+    ]
+
+}
